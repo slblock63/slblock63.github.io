@@ -1,23 +1,18 @@
 body {
 	background-color: #ffffff;
-	color: #fdfdfd;
-	margin-top: 140px;
+	color: #222;
+	font-family: Helvetica, arial, sans-serif;
+	text-align:center;
 }
 	h1 {
-		text-align: center;
-		color: #000800;
 		font-size: 50px;
-		font-family: Helvetica;
 		line-height: 100px;
 		text-shadow: 8px 8px 8px #828282;
 		letter-spacing: 1px;
 	}
 
-	ul {
-		text-align: center;
-		list-style-type: none;
-		color: #000800;
+	a {
+		color:#222;
 		font-size: 18px;
 		font-weight: bold;
-		font-family: Helvetica Neue;
 	}
