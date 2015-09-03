@@ -3,12 +3,17 @@ body {
 	color: #222;
 	font-family: Helvetica, arial, sans-serif;
 	text-align:center;
-}
+	}
+	
 	h1 {
 		font-size: 50px;
 		line-height: 100px;
 		text-shadow: 8px 8px 8px #828282;
 		letter-spacing: 1px;
+	}
+
+	nav {
+		word-spacing: 40px;
 	}
 
 	a {
